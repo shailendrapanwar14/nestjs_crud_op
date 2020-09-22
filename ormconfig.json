@@ -1,0 +1,11 @@
+{
+    "type": "mssql",
+    "host": "localhost",
+    "port": "3000",
+    "username": "local_db",
+    "password": "Bi2i@1234",
+    "database": "nest_crud_db",
+    "synchronize": false,
+    "logging": true,
+    "entities": ["__dirname + '/**/*.entity{.ts,.js}"]
+  }
